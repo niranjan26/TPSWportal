@@ -1,0 +1,55 @@
+.login_body{
+  background-color: #ffffff;
+}
+.form_bg {
+color:#666;
+border-radius:10px;
+position: absolute;
+border:1px solid #fff;
+margin: auto;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+width: 320px;
+height: 280px;
+}
+.align-center {
+text-align:center;
+}
+.h2_nav_tabs{
+font-size: 3rem;
+}
+.coll-item1{
+	width: 15%;
+}
+.coll-item2{
+	width: 20%;
+}
+.coll-item3{
+	width: 70%;
+}
+.coll-item4{
+	width: 65%;
+}
+.fixed-action-button-customised{
+	bottom: 50px; right: 19px;
+}
+@font-face {
+            font-family: espn;
+            src: url(../font/espn/esp_ital.ttf);
+        }
+.logo-customised{
+	font-family:'espn';
+}
+.logo-customised-lappy{
+	font-family:'espn'; font-size:42px;
+}
+.blog1-customised{
+	position: relative;
+    left: 0px;
+    top: 0px;
+}
+.caret{
+ border-top: 0px;
+}
